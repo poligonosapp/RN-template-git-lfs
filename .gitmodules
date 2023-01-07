@@ -1,0 +1,3 @@
+[submodule "RN-template-git-index"]
+	path = RN-template-git-index
+	url = https://github.com/poligonosapp/RN-template-git-lfs.git
